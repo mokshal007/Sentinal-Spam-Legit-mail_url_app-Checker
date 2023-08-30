@@ -14,7 +14,7 @@ print("\n\n\n")
 fontList = ["big","bulbhead","roman","epic","larry3d","speed","nancyj","stampatello","smslant","slscript","serifcap","rounded","puffy","o8","letters","colossal","basic"]
 fontType = random.choice(fontList)
 f = Figlet(font=fontType)
-print(f.renderText('Cyber Machine'))
+print(f.renderText('Sentinal'))
 
 print("by Mokshal\n")
 
